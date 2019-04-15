@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.Jumbotron {
+    margin-top: 5em;
+    border-style: solid;
+    border-color: grey;
+    padding: 2em;
+    width: 80%;
+    margin-left: 10em;
+}
